@@ -2,7 +2,7 @@
 
 _Resources for undertaking reproducible bioinformatic analyses on Google cloud._
 
-1. [Setting up a VM]([http://example.com](https://github.com/ghobriallab/ComputationalBootcamp/wiki/Setting-up-a-VM))
+1. [Setting up a VM]([http://example.com](https://github.com/ghobriallab/ComputationalBootcamp/wiki/Setting-up-a-VM)
 2. [Setting up GitHub](https://github.com/ghobriallab/ComputationalBootcamp/wiki/Setting-up-GitHub)
 3. [Setting up Docker](https://github.com/ghobriallab/ComputationalBootcamp/wiki/Setting-up-Docker)
 4. [Example workflow](https://github.com/ghobriallab/ComputationalBootcamp/wiki/Example‐workflow)
